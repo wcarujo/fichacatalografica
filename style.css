@@ -1,0 +1,65 @@
+<style type="text/css">
+
+a{
+       color:#276DD1;  
+}
+
+#bloco{
+ font-family: verdana;
+}
+
+label {
+  font-weight: bold; 
+  float: left;   
+  margin-right: 0.5em;
+  padding-top: 0.2em;
+  text-align: right;
+  width: 25%;
+}
+
+
+.submit input{
+    margin-left: 3.5em;
+}
+
+input{
+    color: #276DD1;    
+}
+
+.submit input{
+    color: #000;
+    background: #84A4D4;
+    border: 2px outset #84A4D4
+}
+
+fieldset{
+    border: 1px solid #526F9B;
+    width: 700px;
+    font-size:11px;
+}
+
+
+legend{
+  color: #fff;
+  background: #84A4D4;
+  border: 1px solid #526F9B;
+  padding: 2px 6px
+} 
+
+#tit{  
+  font-size:12px;  
+  font-weight: bold;
+}
+
+#element{
+    background-color: #B5CFE0;
+    border: 1px solid #efefef;
+    font-family: verdana;
+    font-size: 11px;
+    overflow: auto;
+    padding: 5px;
+    position: relative;
+    width: 50%;
+}
+
+</style>
