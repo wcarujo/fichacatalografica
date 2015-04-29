@@ -47,7 +47,7 @@ h3,h4 {font-size: 1em;}
 .flexigrid div.form-div input[type="text"], .flexigrid div.form-div input[type="password"] {
     background: none repeat scroll 0 0 #fafafa;
     border: 1px solid #aaa;
-    font-size: 10px;
+    font-size: 1.2em;
     height: auto !important;
     padding: 5px;
     width: 500px;
